@@ -19,7 +19,7 @@ I filled a form on an HTTP-only website and captured the traffic with Wireshark.
 
 **Result:** My credentials showed up as **plain text** — fully readable.
 
-![Unsecure Website](./unsecure-%20website.png)
+![Unsecure Website](./unSecure-%20website.png)
 
 ### Step 2 — The Secure Website (HTTPS)
 Then I logged into an HTTPS website and captured the same traffic.
