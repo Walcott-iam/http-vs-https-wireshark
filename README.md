@@ -25,7 +25,7 @@ Then I logged into an HTTPS website and captured the same traffic.
 
 **Result:** Everything was **encrypted** — scrambled and unreadable.
 
-![Secure Website](./secure-%20website.png)
+![Secure Website](https://github.com/Walcott-iam/http-vs-https-wireshark/blob/main/Secure-%20website.png)
 
 ## 💡 The Lesson
 
