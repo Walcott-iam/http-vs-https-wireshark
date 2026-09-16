@@ -19,14 +19,14 @@ I filled a form on an HTTP-only website and captured the traffic with Wireshark.
 
 **Result:** My credentials showed up as **plain text** — fully readable.
 
-![Unsecure Website](images/unsecure-%20website.png)
+![Unsecure Website](./unsecure-%20website.png)
 
 ### Step 2 — The Secure Website (HTTPS)
 Then I logged into an HTTPS website and captured the same traffic.
 
 **Result:** Everything was **encrypted** — scrambled and unreadable.
 
-![Secure Website](images/secure-%20website.png)
+![Secure Website](./secure-%20website.png)
 
 ## 💡 The Lesson
 
